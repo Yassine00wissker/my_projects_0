@@ -1,2 +1,2 @@
-# my_projects_0
-all my projects with html_css_js.
+# calculator
+a simple calculator with html_css_js.
